@@ -1,0 +1,26 @@
+{
+  'Select a day:': 'एक दिन चुनें:',
+  'Custom days in the month:': 'महीने में विशेष दिन:',
+  'Open Calendar': 'कैलेंडर खोलें',
+
+  'January': 'जनवरी',
+  'February': 'फरवरी',
+  'March': 'मार्च',
+  'April': 'अप्रैल',
+  'May': 'मई',
+  'June': 'जून',
+  'July': 'जुलाई',
+  'August': 'अगस्त',
+  'September': 'सितंबर',
+  'October': 'अक्टूबर',
+  'November': 'नवंबर',
+  'December': 'दिसंबर',
+
+  'Sunday': 'रविवार',
+  'Monday': 'सोमवार',
+  'Tuesday': 'मंगलवार',
+  'Wednesday': 'बुधवार',
+  'Thursday': 'गुरुवार',
+  'Friday': 'शुक्रवार',
+  'Saturday': 'शनिवार',
+};

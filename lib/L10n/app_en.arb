@@ -1,0 +1,26 @@
+{
+  'Select a day:': 'Select a day:',
+  'Custom days in the month:': 'Custom days in the month:',
+  'Open Calendar': 'Open Calendar',
+
+  'January': 'January',
+  'February': 'February',
+  'March': 'March',
+  'April': 'April',
+  'May': 'May',
+  'June': 'June',
+  'July': 'July',
+  'August': 'August',
+  'September': 'September',
+  'October': 'October',
+  'November': 'November',
+  'December': 'December',
+
+  'Sunday': 'Sun',
+  'Monday': 'Mon',
+  'Tuesday': 'Tue',
+  'Wednesday': 'Wed',
+  'Thursday': 'Thu',
+  'Friday': 'Fri',
+  'Saturday': 'Sat',
+};

@@ -1,0 +1,26 @@
+{
+  'Select a day:': 'Sélectionnez un jour :',
+  'Custom days in the month:': 'Jours personnalisés du mois :',
+  'Open Calendar': 'Ouvrir le calendrier',
+
+  'January': 'Janvier',
+  'February': 'Février',
+  'March': 'Mars',
+  'April': 'Avril',
+  'May': 'Mai',
+  'June': 'Juin',
+  'July': 'Juillet',
+  'August': 'Août',
+  'September': 'Septembre',
+  'October': 'Octobre',
+  'November': 'Novembre',
+  'December': 'Décembre',
+
+  'Sunday': 'Dim',
+  'Monday': 'Lun',
+  'Tuesday': 'Mar',
+  'Wednesday': 'Merc',
+  'Thursday': 'Jeu',
+  'Friday': 'Ven',
+  'Saturday': 'Sam',
+};
